@@ -6,4 +6,3 @@ keras
 tensorflow
 streamlit
 pillow
-PIL
